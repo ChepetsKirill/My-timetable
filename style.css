@@ -1,0 +1,62 @@
+body {
+    background-color: skyblue;
+    color: white;
+    font-size: 22px;
+    margin: 2px;
+    font-family: monospace;
+}
+
+header img {
+    width: 100px;
+    height: 85px;
+}
+
+.center{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid green;
+}
+
+td {
+    text-align: center;
+    border: 2px solid green;
+    background-color: black;
+    padding: 2px;
+}
+
+.s {
+    background-color: greenyellow;
+}
+
+.t {
+    text-decoration: underline;
+}
+
+footer {
+    font-family: cursive;
+    background-color: #5C24E3;
+}
+
+button {
+    background-color: #38FD40;
+    color: white;
+    font-family: cursive;
+    font-size: 19px;
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 17px;
+    text-align: right;
+    border: 2px solid red;
+    border-radius: 15px;
+    background-color: red;
+    margin-left: 303px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+}
